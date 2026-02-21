@@ -1,1 +1,1 @@
-# Smart-Minefield-Intelligence-Platform-SMIP
+# MediNova AI
