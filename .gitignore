@@ -1,0 +1,8 @@
+models/
+*.pth
+*.keras
+*.h5
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

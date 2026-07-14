@@ -1,0 +1,50 @@
+# --- Web Framework ---
+streamlit
+
+# --- Deep Learning Frameworks ---
+torch
+torchvision
+tensorflow
+keras
+peft
+
+# --- Hugging Face (TrOCR & LLM) ---
+transformers
+accelerate
+sentencepiece
+datasets
+safetensors
+auto-gptq
+langchain
+langchain-community
+nest-asyncio
+
+# --- Image Processing & Computer Vision ---
+opencv-python
+Pillow
+grad-cam
+albumentations
+scipy
+
+# --- Data Manipulation & Computation ---
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+
+# --- Visualization (For Notebooks & Grad-CAM) ---
+matplotlib
+seaborn
+
+# --- APIs & Networking ---
+requests
+pyngrok
+fastapi
+uvicorn
+pydantic
+tqdm
+
+# --- Jupyter Environment (Optional for running the Code/ folder) ---
+jupyter
+ipykernel
+ipython
