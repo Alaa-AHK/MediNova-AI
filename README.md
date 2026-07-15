@@ -11,8 +11,7 @@ MediNova-AI/
 │   └── medinova-ai/      # Web app source code & 3D assets
 ├── Code/                 # Research notebooks & model training workflows
 ├── Documentations/       # Project reports and presentations
-├── app.py                # Secondary Streamlit demo for specific local models
-├── requirements.txt      # Python dependencies for the Streamlit demo and models
+├── requirements.txt      # Python dependencies for the research notebooks
 └── README.md
 ```
 
@@ -65,13 +64,6 @@ The `Code/` folder contains the extensive model development and training work be
 | `Radiology.ipynb` | Pneumonia / chest X-ray classification with PEFT |
 | `Skin_diseases.ipynb` | Skin disease classification research notebook |
 | `skin-disease-cnn.ipynb` | CNN-based skin disease classifier |
-
-## Secondary Streamlit Demo
-If you wish to test the local PyTorch/Keras checkpoints for the initial 4 vision models directly via Streamlit:
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Team
 - Fady Youssif Esstemalk
